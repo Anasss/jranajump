@@ -17,7 +17,7 @@ alt="Geek Day à Supinfo Casablanca" width="240" height="180" border="10" /></a>
 
 ### Auteurs et contributeurs
 Ceci est la version complète du jeu proposé par [SupInfo](http://www.supinfo.com/fr/supinfo_casablanca.aspx)
-Initialement édité par [@AnasRach](twitter.com/AnasRach) et [@IdrissiRhalbiMh](https://twitter.com/IdrissiRhalbiMh) dans le cadre des 24h de la compétition.
+Initialement édité par [@AnasRach](https://twitter.com/AnasRach) et [@IdrissiRhalbiMh](https://twitter.com/IdrissiRhalbiMh) dans le cadre des 24h de la compétition.
 
 ### Technos et outils
 HTML 5 / CSS3 / Javascript / Aptana Studio IDE
