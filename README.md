@@ -4,7 +4,7 @@ JranaJump est un jeu de jumping en HTML5, CSS3 et Javascript avec Canvas.
 
 ### But du jeu
 Le but du jeu est de guider une grenouille du fond de l'écran vers le haut dans l'une des cinq briques disponibles tout en respectant la limite de temps de 60 secondes.
-
+![Fléches](http://www.julesgirard.net/snake/img/arrows.jpg)
 ![JranaJump](http://oi58.tinypic.com/2n8v3ax.jpg)
 
 ### Geek day
