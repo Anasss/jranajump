@@ -22,8 +22,5 @@ Initialement édité par [@AnasRach](https://twitter.com/AnasRach) et [@IdrissiR
 ### Technos et outils
 HTML 5 / CSS3 / Javascript / Aptana Studio IDE
 
-### Tutoriel
-Un tutoriel pour créer ce jeu from scratch sera disponible sur [Ma chaine youtube](https://www.youtube.com/user/Blackcopyrh)
-
 ### Contact
 Pour plus d'informations sur l’événement Geek Day, visitez la page Facebook dédié à l'event [Geek Day Event](https://www.facebook.com/geekdayevent)
