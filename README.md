@@ -16,7 +16,7 @@ Il s'agit d'un événement rassemblant des passionnés d’informatique, de dév
 alt="Geek Day à Supinfo Casablanca" width="240" height="180" border="10" /></a>
 
 ### Auteurs et contributeurs
-Ceci est la version complète du jeu proposé par [SupInfo](http://www.supinfo.com/fr/supinfo_casablanca.aspx)
+Ceci est la version complète du jeu proposée par [SupInfo](http://www.supinfo.com/fr/supinfo_casablanca.aspx)
 Initialement édité par [@AnasRach](https://twitter.com/AnasRach) et [@IdrissiRhalbiMh](https://twitter.com/IdrissiRhalbiMh) dans le cadre des 24h de la compétition.
 
 ### Technos et outils
